@@ -178,27 +178,6 @@ recognition.interimResults = true;  // Show real-time results
 
 MIT License - feel free to use this project for personal or commercial purposes.
 
-## 🤝 Contributing
-
-Contributions are welcome! Here are some ideas:
-
-- [ ] Add support for multiple languages
-- [ ] Implement note search/filter functionality
-- [ ] Add export notes as text/PDF
-- [ ] Implement note categories/tags
-- [ ] Add dark/light theme toggle
-- [ ] Support for audio playback of notes
-- [ ] Cloud sync option (Firebase, etc.)
-
-## 💡 Inspiration
-
-Built for anyone who wants to quickly capture thoughts, ideas, meeting notes, or reminders using their voice. Perfect for:
-
-- 📚 Students taking lecture notes
-- 💼 Professionals capturing meeting action items
-- ✍️ Writers brainstorming ideas
-- 🧠 Anyone who thinks faster than they type
-
 ## 🙏 Acknowledgments
 
 - Built with [Tailwind CSS](https://tailwindcss.com/)

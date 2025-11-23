@@ -46,7 +46,7 @@ A beautiful, mobile-first Progressive Web App (PWA) for creating voice notes usi
 ### Option 2: Local Server
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/voiceover.git
+git clone https://github.com/light-saber/voiceover.git
 cd voiceover
 
 # Start a local server
@@ -60,12 +60,6 @@ php -S localhost:8080
 ```
 
 Then open `http://localhost:8080` in your browser.
-
-### Option 3: Deploy to GitHub Pages
-1. Fork this repository
-2. Go to Settings → Pages
-3. Select main branch as source
-4. Your app will be live at `https://yourusername.github.io/voiceover/`
 
 ## 📱 iOS Installation
 
@@ -179,31 +173,6 @@ recognition.interimResults = true;  // Show real-time results
 - Make sure you added it via "Add to Home Screen"
 - Launch from the home screen icon, not Safari
 - Check that PWA meta tags are present in the HTML
-
-## 🚀 Deployment Options
-
-### GitHub Pages (Free)
-```bash
-# Push to GitHub
-git add .
-git commit -m "Initial commit"
-git push origin main
-
-# Enable GitHub Pages in repository settings
-```
-
-### Netlify (Free)
-1. Drag and drop the `index.html` file to [Netlify Drop](https://app.netlify.com/drop)
-2. Get instant deployment with HTTPS
-
-### Vercel (Free)
-```bash
-npm i -g vercel
-vercel
-```
-
-### Any Static Host
-Upload `index.html` to any web server - that's it!
 
 ## 📝 License
 
